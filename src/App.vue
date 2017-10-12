@@ -25,7 +25,7 @@
           `/*
 * Inspired by http://strml.net/
 * 大家好，我叫杨蓉，是战斗在Web前端行业的MM一枚。
-* 在招聘网上看到贵公司的 “寻人启事”，怎么办， 我好像就是泥盟的 “失物招领” ~ 
+* 在招聘网上看到贵公司的 “寻人启事”，怎么办， 我好像就是泥盟的 “失物招领” !!!
    [How to speak 'you don't wanna face' in English? ﻿(๑˙ー˙๑);]
 * 撸撸代码缓缓心跳先！
 */
@@ -135,7 +135,7 @@ Web前端工程师。
 ----
 *[PVC地板](http://www.foo-china.com/)、[艾佳家纺](http://www.hnaijia.cn/)
 
-* [GitHub](https://github.com/lynnyang)
+* [GitHub](https://github.com/m-aliceyang)
 `
       }
     },
